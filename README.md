@@ -8,8 +8,5 @@ A clean and lightweight Question & Answer platform designed for fast, distractio
 - **Problem Statement:** Stacklt - A Minimal Q&A Forum Platform  
 - **YouTube Demo:** [Watch Demo](https://youtu.be/CknCASkN1Mk)
 
-## 👥 Team Members
 
-- **Team Leader:** Aradhya Dwivedi  
-- **Member 2:** Saptami Biswas  
-- **Member 3:** Subinita Ray
+- **Member :** Saptami Biswas  
